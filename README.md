@@ -34,6 +34,7 @@ Proyek ini bertujuan untuk menganalisis umpan balik pelanggan dan efisiensi prod
 ---------------------------------------------------------
 
 ## 📝 **Struktur Proyek**
+```bash
 ├── data.ipynb 
 ├── data/ # Folder dataset
     ├── Dataset_Pertama.csv
@@ -44,6 +45,7 @@ Proyek ini bertujuan untuk menganalisis umpan balik pelanggan dan efisiensi prod
 ├── results/ # Folder untuk hasil clustering dan analisis
     └── hasil_clustering.csv
 ├── README.md # Dokumentasi proyek
+```
 
 ---------------------------------------------------------
 
