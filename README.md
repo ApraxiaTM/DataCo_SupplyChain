@@ -1,5 +1,10 @@
 # 💡 **Analisis Umpan Balik Pelanggan dan Efisiensi Produksi pada DataCo Smart Supply Chain**
 
+### **Dibuat oleh:**
+- Winston Narada Kusumahadi
+- Bryant Gabriel Effendi
+- Farrany Sucitra Kusumahadi
+
 ## 📑 **Deskripsi Proyek**
 Proyek ini bertujuan untuk menganalisis umpan balik pelanggan dan efisiensi produksi pada **DataCo Smart Supply Chain**. Dengan menggunakan data yang tersedia, proyek ini mengevaluasi kualitas layanan pengiriman dan memodelkan klasterisasi pelanggan serta efisiensi produksi. 
 
